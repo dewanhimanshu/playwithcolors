@@ -31,6 +31,6 @@ for(var i = 0;i<elems.length;i++)
     }
         
 }
-var audio = new Audio('sond.mp3');
+var audio = new Audio('song.mp3');
 audio.play();
 setInterval(generator,100);
